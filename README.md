@@ -39,7 +39,7 @@ bpmn-assignment/
 
 **File:** `diagrams/employee-leave-approval.bpmn`
 **Diagram:**
-![Employee Leave Approval Process](images/employee-leave-approval.png)
+![Employee Leave Approval Process](images/employee-leave-approval.png.jpeg)
 
 ## Scenario 2: Online Purchase Order Processing
 
@@ -57,7 +57,7 @@ bpmn-assignment/
 
 **File:** `diagrams/purchase-order.bpmn`
 **Diagram:**
-![Purchase Order Process](images/purchase-order.png)
+![Purchase Order Process](images/purchase-order.png.jpeg)
 
 ## Scenario 3: IT Service Request
 
@@ -80,17 +80,6 @@ bpmn-assignment/
 
 **File:** `diagrams/it-service-request.bpmn`
 **Diagram:**
-![IT Service Request Process](images/it-service-request.png)
+![IT Service Request Process](images/it-service-request.png.jpeg)
 
-## How to view or edit the diagrams
 
-1. Install [Camunda Modeler](https://camunda.com/download/modeler/)
-2. Open any `.bpmn` file from the `diagrams/` folder
-3. Diagrams can be edited directly on the canvas or exported via **File → Export as → PNG/SVG**
-
-## Verification checklist
-
-- [x] Every gateway has at least two labeled outgoing sequence flows (labels on the arrows, not separate task boxes)
-- [x] Every path in each diagram terminates at an End Event
-- [x] Diagrams open without errors in Camunda Modeler
-- [ ] Diagram images in `images/` match the current `.bpmn` files
