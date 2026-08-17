@@ -39,7 +39,7 @@ bpmn-assignment/
 
 **File:** `diagrams/employee-leave-approval.bpmn`
 **Diagram:**
-![Employee Leave Approval Process](images/employee-leave-approval.png.jpeg)
+![Employee Leave Approval Process](images/employee-leave-approval.png‎.jpeg)
 
 ## Scenario 2: Online Purchase Order Processing
 
@@ -57,7 +57,7 @@ bpmn-assignment/
 
 **File:** `diagrams/purchase-order.bpmn`
 **Diagram:**
-![Purchase Order Process](images/purchase-order.png.jpeg)
+![Purchase Order Process](images/it-service-request.png‎.jpeg)
 
 ## Scenario 3: IT Service Request
 
@@ -80,6 +80,6 @@ bpmn-assignment/
 
 **File:** `diagrams/it-service-request.bpmn`
 **Diagram:**
-![IT Service Request Process](images/it-service-request.png.jpeg)
+![IT Service Request Process](images/purchase-order.png‎.jpeg)
 
 
